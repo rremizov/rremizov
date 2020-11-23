@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**rremizov/rremizov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Roman**, a Full-Stack Developer from Russia!
 
-Here are some ideas to get you started:
+### My Toolbelt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python, Go, Clojure, TypeScript, Solidity.
+* Django, ReactJS, Phaser.
+* Debian GNU/Linux, Ansible, Docker Swarm.
+
+### Contacts
+
+* [LinkedIn](https://www.linkedin.com/in/rremizov/)
+* [Twitter](https://twitter.com/rremiz0v)

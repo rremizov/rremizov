@@ -6,7 +6,7 @@ I'm **Roman**, a Full-Stack Developer from Russia!
 
 * Python, Go, Clojure, TypeScript, Solidity.
 * Django, ReactJS, Phaser.
-* Debian GNU/Linux, Ansible, Docker Swarm.
+* PostgreSQL, Redis, Debian GNU/Linux, Ansible, Docker Swarm.
 
 ### Contacts
 

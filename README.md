@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm **Roman**, a Full-Stack Developer from Russia!
+I'm **Roman**, a Full-Stack Software Engineer from Russia!
 
 ### My Toolbelt
 
-* Python, Go, Clojure, TypeScript, Solidity.
+* Python, Go, Clojure, JavaScript, TypeScript, Solidity.
 * Django, ReactJS, Phaser.
-* PostgreSQL, Redis, Debian GNU/Linux, Ansible, Docker Swarm.
+* Nginx, uWSGI.
+* PostgreSQL, Redis.
+* Debian GNU/Linux, Ansible, Terraform, Docker Swarm.
 
 ### Contacts
 

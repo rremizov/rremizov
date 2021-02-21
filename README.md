@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Roman**, a Full-Stack Software Engineer from Russia!
+I'm **Roman**, a Full-Stack Software Engineer!
 
 ### My Toolbelt
 

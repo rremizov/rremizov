@@ -13,4 +13,3 @@ I'm **Roman**, a Full-Stack Software Engineer!
 ### Contacts
 
 * [LinkedIn](https://www.linkedin.com/in/rremizov/)
-* [Twitter](https://twitter.com/rremiz0v)

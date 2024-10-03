@@ -5,9 +5,9 @@ I'm **Roman**, a Full-Stack Software Engineer!
 ### My Toolbelt
 
 * Python, Go, Clojure, JavaScript, TypeScript, Solidity.
-* Django, ReactJS, Phaser.
-* Nginx, uWSGI.
-* PostgreSQL, Redis.
+* Django, FastAPI, React, NestJS.
+* Nginx, uWSGI, gunicorn.
+* PostgreSQL, Redis, ElasticSearch, InfluxDB.
 * Debian GNU/Linux, Ansible, Terraform, Docker Swarm.
 
 ### Contacts
